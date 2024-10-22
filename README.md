@@ -43,7 +43,7 @@ As an end-user, we will create a ticket explaining that our entire mobile/online
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+We can then log into osTicket as a help desk agent, we will be using "John" to view the ticket in the system. Please review the ticket's properties (Priority, department, SLA, Assigned To).
 </p>
 <br />
 
