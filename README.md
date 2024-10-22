@@ -38,7 +38,8 @@ As an end-user, we will create a ticket explaining that our entire mobile/online
 <br />
 
 <p>
-![68747470733a2f2f692e696d6775722e636f6d2f444a6d455845422e706e67](https://github.com/user-attachments/assets/2a69d05e-2b2f-4f3e-9798-6a5d86e844b3)
+
+![image](https://github.com/user-attachments/assets/c08ee462-a772-48ba-bd83-1012ff0e74fa)
 
 
 </p>
@@ -48,9 +49,32 @@ We can then log into osTicket as a help desk agent, we will be using "John" to v
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+
+![image](https://github.com/user-attachments/assets/509f1a46-907f-44cb-9655-cd476751732a)
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Set properties to the ticket. Sev-A ( 1 hour, 24/7 ) and assign this ticket to the online banking department. 
 </p>
 <br />
+
+
+
+![image](https://github.com/user-attachments/assets/21e4afe4-2f00-4169-b7b6-854146ece374)
+
+
+Now observe the ticket once more as "John", as you can see since it has been assigned over to Online Banking we are now unable to edit the ticket further.
+
+
+
+![image](https://github.com/user-attachments/assets/edc80e91-0673-4fd1-8662-027daec975e4)
+
+
+We can now log in with "Jane" in the online banking department to complete the ticket. In this example, we say that there has been a failure in the recent update to the online banking system website and it has to be rolled back so the website can work properly.
+
+
+![image](https://github.com/user-attachments/assets/ec6a8f6b-b578-4ecd-9739-562a28df0dfa)
+
+
+The ticket can now be closed with the issue resolved!
