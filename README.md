@@ -31,7 +31,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-As an end-user, we will create a ticket explaining that our entire mobile/online banking system is down. 
+As an end-user, we will create a ticket explaining that our entire mobile/online banking system is down.This would likely be a critical outage as it is the entire system.  
 </p>
 <br />
 
